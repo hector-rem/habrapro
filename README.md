@@ -1,4 +1,27 @@
-l# habrapro.github.i
-a inteligencia artificial (IA) es la inteligencia llevada a cabo por máquinas. En ciencias de la computación, una máquina «inteligente» ideal es un agente flexible que percibe su entorno y lleva a cabo acciones que maximicen sus posibilidades de éxito en algún objetivo o tarea.1​ Coloquialmente, el término inteligencia artificial se aplica cuando una máquina imita las funciones «cognitivas» que los humanos asocian con otras mentes humanas, como por ejemplo: «percibir», «razonar», «aprender» y «resolver problemas».2​ Andreas Kaplan y Michael Haenlein definen la inteligencia artificial como «la capacidad de un sistema para interpretar correctamente datos externos, para aprender de dichos datos y emplear esos conocimientos para lograr tareas y metas concretas a través de la adaptación flexible».3​ A medida que las máquinas se vuelven cada vez más capaces, tecnología que alguna vez se pensó que requería de inteligencia se elimina de la definición. Por ejemplo, el reconocimiento óptico de caracteres ya no se percibe como un ejemplo de la «inteligencia artificial» habiéndose convertido en una tecnología común.4​ Avances tecnológicos todavía clasificados como inteligencia artificial son los sistemas de conducción autónomos o los capaces de jugar al ajedrez o al Go.5​
+l# habrapro.github.io
 
-Según Takeyas (2007) la IA es una rama de las ciencias computacionales encargada de estudiar modelos de cómputo capaces de realizar actividades propias de los seres humanos con base en dos de sus características primordiales: el razonamiento y la conducta.6​
+
+La inteligencia artificial (IA) es una de las ramas de la Informática, con fuertes raíces en otras áreas como la lógica y las ciencias cognitivas. Vicenç Torra nos conduce por sus definiciones y aplicaciones.
+La inteligencia artificial (IA) es una de las ramas de la Informática, con fuertes raíces en otras áreas como la lógica y las ciencias cognitivas. Como veremos a continuación, existen muchas definiciones de lo que es la inteligencia artificial. Sin embargo, todas ellas coinciden en la necesidad de validar el trabajo mediante programas.
+La inteligencia artificial nace en una reunión celebrada en el verano de 1956 en Dartmouth (Estados Unidos) en la que participaron los que más tarde han sido los investigadores principales del área. Para la preparación de la reunión, J. McCarthy, M. Minsky, N. Rochester y C. E. Shannon redactaron una propuesta en la que aparece por primera vez el término «inteligencia artificial». Parece ser que este nombre se dio a instancias de J. McCarthy.
+
+
+
+
+ASIMO (Advanced Step in Innovative Mobility –paso avanzado en movilidad innovadora–) es un robot humanoide creado en el año 2000 por la empresa Honda. / Foto: Honda.
+
+
+¿Qué es la inteligencia artificial?
+La propuesta citada más arriba de la reunión organizada por J. McCarthy y sus colegas incluye la que puede considerarse como la primera definición de inteligencia artificial. El documento define el problema de la inteligencia artificial como aquel de construir una máquina que se comporte de manera que si el mismo comportamiento lo realizara un ser humano, este sería llamado inteligente.
+
+Existen, sin embargo, otras definiciones que no se basan en el comportamiento humano. Son las cuatro siguientes.
+
+1. Actuar como las personas. Esta es la definición de McCarthy, donde el modelo a seguir para la evaluación de los programas corresponde al comportamiento humano. El llamado Test de Turing (1950) también utiliza este punto de vista. El sistema Eliza, un bot (programa software) conversacional es un ejemplo de ello.
+
+2. Razonar como las personas. Lo importante es cómo se realiza el razonamiento y no el resultado de este razonamiento. La propuesta aquí es desarrollar sistemas que razonen del mismo modo que las personas. La ciencia cognitiva utiliza este punto de vista.
+
+3. Razonar racionalmente. En este caso, la definición también se focaliza en el razonamiento, pero aquí se parte de la premisa de que existe una forma racional de razonar. La lógica permite la formalización del razonamiento y se utiliza para este objetivo.
+
+4. Actuar racionalmente. De nuevo el objetivo son los resultados, pero ahora evaluados de forma objetiva. Por ejemplo, el objetivo de un programa en un juego como el ajedrez será ganar. Para cumplir este objetivo es indiferente la forma de calcular el resultado.
+
+Además de las definiciones mencionadas más arriba, hay aún otra clasificación de la inteligencia artificial según cuáles son los objetivos finales de la investigación en este campo. Son la inteligencia artificial fuerte y la débil.
