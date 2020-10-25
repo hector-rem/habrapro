@@ -24,4 +24,4 @@ Existen, sin embargo, otras definiciones que no se basan en el comportamiento hu
 
 4. Actuar racionalmente. De nuevo el objetivo son los resultados, pero ahora evaluados de forma objetiva. Por ejemplo, el objetivo de un programa en un juego como el ajedrez será ganar. Para cumplir este objetivo es indiferente la forma de calcular el resultado.
 
-Además de las definiciones mencionadas más arriba, hay aún otra clasificación de la inteligencia artificial según cuáles son los objetivos finales de la investigación en este campo. Son la inteligencia artificial fuerte y la débil.
+Además de las definiciones mencionadas más arriba, hay aún otra clasificación de la inteligencia artificial según cuáles son los objetivos finales de la investigación en este campo. Son la inteligencia artificial fuerte y la débihl.
